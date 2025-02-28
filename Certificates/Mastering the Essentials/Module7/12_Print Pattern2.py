@@ -14,3 +14,7 @@ for i in range(rows):
 #
 # #
 # # #
+for k in range(1, rows+1):
+    for m in range(k):
+        print("#", end=" ")
+    print()
