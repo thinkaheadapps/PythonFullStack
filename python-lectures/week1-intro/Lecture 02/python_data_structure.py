@@ -34,6 +34,13 @@ print(student_object["subjects"][0])
 print(student)
 print(student_object["marks"]["hindi_marks"])
 
+#formating
+student_name = "Divya"
+total_marks = 90
+print(f"hello , My name is {student_name} and my marks is {total_marks}")
+
+
+
 # formating
 my_messsage = "Hello Sir %s, thanks for signing up %d" %(student_object["full_name"],student_object["age"])
 print(my_messsage)
