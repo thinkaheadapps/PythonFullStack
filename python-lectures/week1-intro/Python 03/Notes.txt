@@ -1,0 +1,24 @@
+- Old way - using %
+- New way 1 - str.format
+- New way 2 - f string
+
+- Introduction to Zen of Python - https://www.python.org/dev/peps/pep-0020/
+- Idiomatic Python: https://medium.com/the-andela-way/idiomatic-python-7cbbe8d33b29
+- List comprehension - include modifying each individual element
+    - Simple
+    - if condition
+    - if else condition
+- Ternary operator
+    - a = 1 if x > 0 else 0
+- Chained comparison
+    - if x <= y <= z:
+- Multi-variable assignment
+    - simple assignment
+    - using it for returning multiple values from a function
+- Truthy and Falsy values in python : https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python/
+
+- Advanced function concepts in python
+    - Default arguments for function calls
+        https://pandas.pydata.org/docs/
+    - args and kwargs
+        - when you don’t know ...
